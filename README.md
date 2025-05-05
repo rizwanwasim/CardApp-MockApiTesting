@@ -4,7 +4,7 @@
 
 This project is a **Next.js application** that provides a mock API for testing card-based responses. It includes a simple frontend to interact with API endpoints and validate responses.
 
-![Card App UI](./images/Card_app_apis.png)
+![Card App APIs](https://github.com/rizwanwasim/CardApp-MockApiTesting/blob/main/images/Card_app_apis.png?raw=true))
 
 ## Features
 
