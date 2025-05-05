@@ -94,11 +94,3 @@ next-app-api-qa/
 ├── README.md      # Project documentation
 ```
 
-## Contributing
-
-Feel free to submit issues or pull requests to improve the project.
-
-## License
-
-MIT License. See `LICENSE` file for details.
-
