@@ -23,8 +23,8 @@ This project is a **Next.js application** that provides a mock API for testing c
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/next-app-api-qa.git
-cd next-app-api-qa
+git clone https://github.com/rizwanwasim/CardApp-MockApiTesting.git
+cd CardApp-MockApiTesting
 ```
 
 ### Install Dependencies
